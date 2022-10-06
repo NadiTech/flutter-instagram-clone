@@ -16,8 +16,8 @@ import 'package:instagram/presentation/cubit/firestoreUserInfoCubit/users_info_r
 import 'package:instagram/presentation/cubit/follow/follow_cubit.dart';
 import 'package:instagram/presentation/cubit/postInfoCubit/post_cubit.dart';
 import 'package:instagram/presentation/cubit/postInfoCubit/specific_users_posts_cubit.dart';
-import 'package:instagram/presentation/customPackages/in_view_notifier/in_view_notifier_list.dart';
-import 'package:instagram/presentation/customPackages/in_view_notifier/in_view_notifier_widget.dart';
+import 'package:instagram/presentation/custom_packages/in_view_notifier/in_view_notifier_list.dart';
+import 'package:instagram/presentation/custom_packages/in_view_notifier/in_view_notifier_widget.dart';
 import 'package:instagram/presentation/pages/story/story_for_web.dart';
 import 'package:instagram/presentation/pages/story/story_page_for_mobile.dart';
 import 'package:instagram/presentation/widgets/belong_to/profile_w/custom_gallery/create_new_story.dart';

@@ -10,11 +10,11 @@ import 'package:instagram/core/utility/injector.dart';
 import 'package:instagram/core/widgets/svg_pictures.dart';
 import 'package:instagram/data/models/child_classes/post/story.dart';
 import 'package:instagram/data/models/parent_classes/without_sub_classes/user_personal_info.dart';
-import 'package:instagram/presentation/customPackages/story_view/story_controller.dart';
-import 'package:instagram/presentation/customPackages/story_view/story_view.dart';
-import 'package:instagram/presentation/customPackages/story_view/utils.dart';
+import 'package:instagram/presentation/custom_packages/story_view/story_controller.dart';
+import 'package:instagram/presentation/custom_packages/story_view/story_view.dart';
+import 'package:instagram/presentation/custom_packages/story_view/utils.dart';
 import 'package:instagram/presentation/widgets/global/popup_widgets/common/jump_arrow.dart';
-import 'package:instagram/presentation/customPackages/snapping.dart';
+import 'package:instagram/presentation/custom_packages/snapping.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class StoryPageForWeb extends StatefulWidget {

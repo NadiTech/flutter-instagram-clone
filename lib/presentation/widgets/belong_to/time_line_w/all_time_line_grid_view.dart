@@ -5,8 +5,8 @@ import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:instagram/core/resources/strings_manager.dart';
 import 'package:instagram/core/utility/constant.dart';
 import 'package:instagram/data/models/child_classes/post/post.dart';
-import 'package:instagram/presentation/customPackages/in_view_notifier/in_view_notifier_custom.dart';
-import 'package:instagram/presentation/customPackages/in_view_notifier/in_view_notifier_widget.dart';
+import 'package:instagram/presentation/custom_packages/in_view_notifier/in_view_notifier_custom.dart';
+import 'package:instagram/presentation/custom_packages/in_view_notifier/in_view_notifier_widget.dart';
 import 'package:instagram/presentation/widgets/global/custom_widgets/custom_grid_view_display.dart';
 
 // ignore: must_be_immutable

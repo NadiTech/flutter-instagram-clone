@@ -5,7 +5,7 @@ import 'package:flutter_blurhash/flutter_blurhash.dart';
 import 'package:get/get_utils/src/extensions/internacionalization.dart';
 import 'package:instagram/core/resources/color_manager.dart';
 import 'package:instagram/core/utility/constant.dart';
-import 'package:instagram/presentation/customPackages/story_view/story_image_for_web.dart';
+import 'package:instagram/presentation/custom_packages/story_view/story_image_for_web.dart';
 import 'story_image.dart';
 import 'story_video.dart';
 import 'story_controller.dart';

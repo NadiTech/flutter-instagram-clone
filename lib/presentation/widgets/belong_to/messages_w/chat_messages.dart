@@ -23,7 +23,7 @@ import 'package:instagram/presentation/cubit/firestoreUserInfoCubit/message/bloc
 import 'package:instagram/presentation/cubit/firestoreUserInfoCubit/message/cubit/group_chat/message_for_group_chat_cubit.dart';
 import 'package:instagram/presentation/cubit/firestoreUserInfoCubit/message/cubit/message_cubit.dart';
 import 'package:instagram/presentation/cubit/firestoreUserInfoCubit/user_info_cubit.dart';
-import 'package:instagram/presentation/customPackages/audio_recorder/social_media_recoder.dart';
+import 'package:instagram/presentation/custom_packages/audio_recorder/social_media_recoder.dart';
 import 'package:instagram/presentation/pages/profile/user_profile_page.dart';
 import 'package:instagram/presentation/widgets/belong_to/messages_w/chat_page_component/shared_message.dart';
 import 'package:instagram/presentation/widgets/belong_to/messages_w/record_view.dart';

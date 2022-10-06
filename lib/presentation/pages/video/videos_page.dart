@@ -216,7 +216,7 @@ class _HorizontalButtonsState extends State<_HorizontalButtons> {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: [
                       GestureDetector(
-                        onTap: () => goToUserProfile(personalInfo),
+                        onTap: personalInfo == null? null:() => goToUserProfile(personalInfo),
                         child: CircleAvatar(
                           radius: 18,
                           backgroundColor: ColorManager.white,

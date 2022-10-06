@@ -8,9 +8,9 @@ import 'package:instagram/core/utility/constant.dart';
 import 'package:instagram/core/utility/injector.dart';
 import 'package:instagram/data/models/child_classes/post/story.dart';
 import 'package:instagram/data/models/parent_classes/without_sub_classes/user_personal_info.dart';
-import 'package:instagram/presentation/customPackages/story_view/story_controller.dart';
-import 'package:instagram/presentation/customPackages/story_view/story_view.dart';
-import 'package:instagram/presentation/customPackages/story_view/utils.dart';
+import 'package:instagram/presentation/custom_packages/story_view/story_controller.dart';
+import 'package:instagram/presentation/custom_packages/story_view/story_view.dart';
+import 'package:instagram/presentation/custom_packages/story_view/utils.dart';
 import 'package:instagram/presentation/widgets/belong_to/story_w/story_swipe.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

@@ -32,7 +32,7 @@ Future<SharedPreferences> init() async {
     // I deleted private_keys in github project,
     // so create your own firebase project and add your web private keys here and in web/index.html.
     await Firebase.initializeApp(
-      options: FirebaseOptions(
+      options: const FirebaseOptions(
         measurementId: measurementId,
         databaseURL: databaseURL,
         authDomain: authDomain,
